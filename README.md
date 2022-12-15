@@ -1,4 +1,17 @@
- ### Hi there 👋
+
+ 
+  ### Hi there, I'm Joldoshbek 👋
+
+<div align="center">
+
+  <p>
+ Welcome to my GitHub account! I am a programmer and a student at 42 Abu Dhabi Programming School, where I am learning the C, C++ programming language. I am also interested in learning other languages such as JavaScript and Python, and I am particularly interested in blockchain development.
+
+On my GitHub account, you will find my projects that I have developed during my studies at 42 Abu Dhabi. These projects showcase my skills and experiences in C, C++, JavaScript and Python programming and my interest in blockchain development. You can also find information about me and my interests in the field of programming.
+
+Thank you for visiting my GitHub account, and please feel free to contact me if you have any questions or suggestions. I am always looking to learn and grow as a programmer, and I am open to collaborating with others in the developer community.
+ </p>
+</div>
 
 <div align="center">
 
@@ -12,6 +25,17 @@
    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </div>
+<a>
+  
+</a>
+<div align="center">
+ <a>
+ <img src="https://github-profile-trophy.vercel.app/?username=jktobo&margin-w=15"/>
+ </a>
+</div>
+<a>
+  
+</a>
 <div align="center">
  <a>
  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)"/>
@@ -22,11 +46,7 @@
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)"/>
  </a>
 </div>
-<div align="center">
- <a>
- <img src="https://github-profile-trophy.vercel.app/?username=jktobo&margin-w=15"/>
- </a>
-</div>
+
 
 <!--
 **jktobo/jktobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
