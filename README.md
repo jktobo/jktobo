@@ -25,17 +25,13 @@ Thank you for visiting my GitHub account, and please feel free to contact me if 
    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </div>
-<a>
-  
-</a>
+<br>
 <div align="center">
  <a>
  <img src="https://github-profile-trophy.vercel.app/?username=jktobo&margin-w=15"/>
  </a>
 </div>
-<a>
-  
-</a>
+<br>
 <div align="center">
  <a>
  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)"/>
