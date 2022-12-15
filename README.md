@@ -22,6 +22,11 @@
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)"/>
  </a>
 </div>
+<div align="center">
+ <a>
+ <img src="https://github-profile-trophy.vercel.app/?username=jktobo&margin-w=15"/>
+ </a>
+</div>
 
 <!--
 **jktobo/jktobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
