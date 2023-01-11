@@ -5,7 +5,7 @@
 <div align="center">
 
   <p>
- Welcome to my GitHub account! I am a programmer and a student at 42 Abu Dhabi Programming School, where I am learning the C, C++ programming language. I am also interested in learning other languages such as JavaScript and Python, and I am particularly interested in blockchain development.
+ Welcome to my GitHub account! I am a programmer and a student at 42 Abu Dhabi Programming School, where I am learning the C, C++ programming languages. I am also interested in learning other languages such as JavaScript and Python, and I am particularly interested in blockchain development.
 
 On my GitHub account, you will find my projects that I have developed during my studies at 42 Abu Dhabi. These projects showcase my skills and experiences in C, C++, JavaScript and Python programming and my interest in blockchain development. You can also find information about me and my interests in the field of programming.
 
