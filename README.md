@@ -21,7 +21,7 @@ Thank you for visiting my GitHub account, and please feel free to contact me if 
  <a href="https://leetcode.com/Dzholdoshbek/">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDzholdoshbek&logo=leetcode&logoColor=yellow"/>
   </a>
- <a href="https://t.me/jtobo"> 
+ <a href="https://t.me/jktobo"> 
    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </div>
