@@ -1,6 +1,6 @@
-### 👋 Привет, я Джолдошбек!
+### 👋 Hi, I'm Joldoshbek!
 
-Я Backend и AI-разработчик, увлеченный созданием масштабируемых и интеллектуальных систем. Мой путь в IT начался с классической разработки, а сейчас я сфокусирован на интеграции больших языковых моделей (LLM) и создании высокопроизводительных бэкенд-сервисов. Прохожу обучение в школе 42 Abu Dhabi по направлению Data Science / Machine Learning.
+I am a Backend and AI Developer, passionate about creating scalable and intelligent systems. My journey in IT began with classic development, and now I am focused on integrating Large Language Models (LLMs) and building high-performance backend services. I am currently studying at 42 Abu Dhabi in the Data Science / Machine Learning track. 
 
 ---
 
