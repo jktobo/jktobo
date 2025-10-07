@@ -1,60 +1,59 @@
+### [cite_start]👋 Привет, я Джолдошбек! [cite: 1]
 
- 
-  ### Hi there, I'm Joldoshbek 👋
+[cite_start]Я Backend и AI-разработчик, увлеченный созданием масштабируемых и интеллектуальных систем[cite: 3, 4]. [cite_start]Мой путь в IT начался с классической разработки, а сейчас я сфокусирован на интеграции больших языковых моделей (LLM) и создании высокопроизводительных бэкенд-сервисов[cite: 3]. [cite_start]Прохожу обучение в школе 42 Abu Dhabi по направлению Data Science / Machine Learning[cite: 11, 12].
 
-<div align="center">
+---
 
-  <p>
- Welcome to my GitHub account! I am a programmer and a student at 42 Abu Dhabi Programming School, where I am learning the C, C++ programming languages. I am also interested in learning other languages such as JavaScript and Python, and I am particularly interested in blockchain development.
+### 🛠️ Мой стек технологий
 
-On my GitHub account, you will find my projects that I have developed during my studies at 42 Abu Dhabi. These projects showcase my skills and experiences in C, C++, JavaScript and Python programming and my interest in blockchain development. You can also find information about me and my interests in the field of programming.
+Здесь отлично будут смотреться иконки технологий. Их можно сгенерировать на сайте [shields.io](https://shields.io/).
 
-Thank you for visiting my GitHub account, and please feel free to contact me if you have any questions or suggestions. I am always looking to learn and grow as a programmer, and I am open to collaborating with others in the developer community.
- </p>
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<div align="center">
+---
 
-  <a href="https://www.linkedin.com/in/dzholdoshbek-karataev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a>
- <a href="https://leetcode.com/Dzholdoshbek/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDzholdoshbek&logo=leetcode&logoColor=yellow"/>
-  </a>
- <a href="https://t.me/jktobo"> 
-   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</div>
-<br>
-<div align="center">
- <a>
- <img src="https://github-profile-trophy.vercel.app/?username=jktobo&margin-w=15"/>
- </a>
-</div>
-<br>
-<div align="center">
- <a>
- <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)"/>
- <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)"/>
- <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)"/>
- <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)"/>
- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)"/>
- <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)"/>
- </a>
-</div>
+### 🚀 Мои проекты
 
+Рекомендую закрепить (Pin) эти 4 репозитория на вашей главной странице GitHub, чтобы они были сразу видны.
 
-<!--
-**jktobo/jktobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### [cite_start]1. High-Performance Backend Service [cite: 17]
+* [cite_start]**Описание:** Учебный проект по разработке микросервиса на Go для обработки потоков данных в реальном времени[cite: 22].
+* [cite_start]**Стек:** Go, Kafka, PostgreSQL, Redis, Docker[cite: 17].
+* [cite_start]**Ключевые фичи:** Асинхронная обработка сообщений, кеширование для ускорения ответов, отказоустойчивость[cite: 23, 24].
 
-Here are some ideas to get you started:
+#### [cite_start]2. Transcendence [cite: 27]
+* [cite_start]**Описание:** Игровая онлайн-платформа с мультиплеером в реальном времени, разработанная в команде из 3 человек[cite: 28].
+* [cite_start]**Стек:** Django, JavaScript, PostgreSQL, Docker[cite: 27].
+* [cite_start]**Ключевые фичи:** Авторизация пользователей, система турниров, интеграция AI-соперников[cite: 29].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [cite_start]3. Minishell [cite: 34]
+* [cite_start]**Описание:** Реализация командной оболочки Unix на языке C[cite: 38].
+* [cite_start]**Стек:** C, Makefile[cite: 34].
+* [cite_start]**Ключевые фичи:** Поддержка конвейеров (`|`), перенаправлений (`<`, `>`), интерактивных сигналов и встроенных команд[cite: 38, 39].
+
+#### [cite_start]4. Philosopher [cite: 31]
+* [cite_start]**Описание:** Многопоточная симуляция классической задачи «Обедающие философы»[cite: 32].
+* [cite_start]**Стек:** C, Multithreading[cite: 31].
+* [cite_start]**Ключевые фичи:** Синхронизация потоков с помощью мьютексов, предотвращение взаимоблокировок (deadlocks)[cite: 32, 33].
+
+---
+
+### 📫 Как со мной связаться
+
+* [cite_start]📧 **Email:** [joldosh.k@gmail.com](mailto:joldosh.k@gmail.com) [cite: 2]
+* [cite_start]💼 **LinkedIn:** [linkedin.com/in/dzholdoshbek-karataev](https://www.linkedin.com/in/dzholdoshbek-karataev/) [cite: 2]
+
+---
+
+### 📊 Моя статистика GitHub
+
+Вы можете добавить динамическую карточку со своей статистикой. Это популярный элемент для профилей.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jktobo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
